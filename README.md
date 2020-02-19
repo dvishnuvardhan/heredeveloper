@@ -22,3 +22,6 @@
 
 That's it, Now we can able to see test report.
 :blush:
+- [x] Finish my changes
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
