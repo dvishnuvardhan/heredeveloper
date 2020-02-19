@@ -1,5 +1,11 @@
 # heredeveloper
 
+### Tasks included
+1. Verify loading of documentation page
+2. Verify status code and Angular JS is initialization in documentation page
+3. Verify all internal links in documentation page(/documentation)
+
+
 ### Steps to setup and execute the code
 1. Open following link
 [HereDeveloper](https://github.com/dvishnuvardhan/heredeveloper.git)
@@ -22,6 +28,5 @@
 
 That's it, Now we can able to see test report.
 :blush:
-- [x] Finish my changes
-- [ ] Push my commits to GitHub
-- [ ] Open a pull request
+
+
